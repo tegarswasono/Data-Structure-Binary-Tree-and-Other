@@ -1,0 +1,6 @@
+D:\APPOTHER\Data-Structure\Data-Structure\bin\Debug\Data-Structure.exe.config
+D:\APPOTHER\Data-Structure\Data-Structure\bin\Debug\Data-Structure.exe
+D:\APPOTHER\Data-Structure\Data-Structure\bin\Debug\Data-Structure.pdb
+D:\APPOTHER\Data-Structure\Data-Structure\obj\Debug\Data-Structure.csprojResolveAssemblyReference.cache
+D:\APPOTHER\Data-Structure\Data-Structure\obj\Debug\Data-Structure.exe
+D:\APPOTHER\Data-Structure\Data-Structure\obj\Debug\Data-Structure.pdb
