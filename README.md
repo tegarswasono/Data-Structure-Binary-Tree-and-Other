@@ -10,5 +10,21 @@ Berikut adalah gambar perbandingan dari "search" diatas
   <li>Jika tidak maka, Check apakah nilai tengah kurang dari nilai dicari, jika iya max==tengah-1</li>
   <li>Jika tidak maka, min==tengah+1</li>
 </ol>
+Note: Syarat Melakukan Binary Search adalah ordered array atau ordered list
+
+<b>Searching Algorithms</b>
+<ol>
+<li>Linear Search</li>
+<li>Binary Search</li>
+<li>Jump Search</li>
+<li>Interpolation Search</li>
+<li>Exponential Search</li>
+<li>Sublist Search (Search a linked list in another list)</li>
+<li>Fibonacci Search</li>
+<li>The Ubiquitous Binary Search</li>
+<li>Recursive program to linearly search an element in a given array</li>
+<li>Recursive function to do substring search</li>
+<li>Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)</li>
+</ol>
 <br/><hr/>
-- Like Algoritm
+- Like Algorithm
