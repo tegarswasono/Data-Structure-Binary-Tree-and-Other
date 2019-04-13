@@ -10,8 +10,11 @@ Berikut adalah gambar perbandingan dari "search" diatas
   <li>Jika tidak maka, Check apakah nilai tengah kurang dari nilai dicari, jika iya max==tengah-1</li>
   <li>Jika tidak maka, min==tengah+1</li>
 </ol>
+<small><i>
 Note: Syarat Melakukan Binary Search adalah ordered array atau ordered list
-
+  </i></small>
+<br/>
+<br/>
 <b>Searching Algorithms</b>
 <ol>
 <li>Linear Search</li>
