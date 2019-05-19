@@ -1,6 +1,0 @@
-D:\APPOTHER\Data-Structure\LinearSearchAndBinarySearch\bin\Debug\LinearSearchAndBinarySearch.exe.config
-D:\APPOTHER\Data-Structure\LinearSearchAndBinarySearch\bin\Debug\LinearSearchAndBinarySearch.exe
-D:\APPOTHER\Data-Structure\LinearSearchAndBinarySearch\bin\Debug\LinearSearchAndBinarySearch.pdb
-D:\APPOTHER\Data-Structure\LinearSearchAndBinarySearch\obj\Debug\LinearSearchAndBinarySearch.csprojResolveAssemblyReference.cache
-D:\APPOTHER\Data-Structure\LinearSearchAndBinarySearch\obj\Debug\LinearSearchAndBinarySearch.exe
-D:\APPOTHER\Data-Structure\LinearSearchAndBinarySearch\obj\Debug\LinearSearchAndBinarySearch.pdb
