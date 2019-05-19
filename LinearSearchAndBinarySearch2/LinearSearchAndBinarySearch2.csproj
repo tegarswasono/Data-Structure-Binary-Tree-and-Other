@@ -45,12 +45,17 @@
   <ItemGroup>
     <Compile Include="BinarySearch.cs" />
     <Compile Include="LinearSearch.cs" />
-    <Compile Include="Mahasiswa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataDummy\DataDummy.csproj">
+      <Project>{49c1d654-0c7f-4454-8da3-7003b42c25c9}</Project>
+      <Name>DataDummy</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
