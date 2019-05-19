@@ -15,7 +15,7 @@ namespace LinearSearchAndBinarySearch2
             var data = m.getAllNim();
 
 
-            //#01 Linear Search
+            //#01 Linear Search Iterasion
             LinearSearch ls = new LinearSearch();
             var result1= ls.search(data, 7);
 
@@ -24,7 +24,7 @@ namespace LinearSearchAndBinarySearch2
             var result2 = ls.searchRecurtion(data, data.Count()-1, 7);
 
 
-            //#03 Binary Search
+            //#03 Binary Search Iterasion
             BinarySearch bs = new BinarySearch();
             var result3= bs.Search(data, 7);
 
