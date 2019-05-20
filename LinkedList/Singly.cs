@@ -14,10 +14,6 @@ namespace LinkedList
         {
             this.data = data;
         }
-        public void displayLink()
-        {
-            Console.WriteLine(data+" ");
-        }
     }
     class Singly
     {
