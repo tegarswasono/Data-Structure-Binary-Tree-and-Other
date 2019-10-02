@@ -5,4 +5,4 @@
 </ol>
 
 <br/><hr/>
-- Like Algorithm
+- Love Algoritm
