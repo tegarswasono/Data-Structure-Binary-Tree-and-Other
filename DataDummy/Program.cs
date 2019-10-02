@@ -10,7 +10,8 @@ namespace DataDummy
     {
         static void Main(string[] args)
         {
-
+            Mahasiswa mahasiswa = new Mahasiswa();
+            List<int> listMahasiswa= mahasiswa.getAllNim();
         }
     }
 }
